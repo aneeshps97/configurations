@@ -5,7 +5,7 @@ env:
   environment: "dev"
 
 contact-info:
-  message: contact info for account microservice dev
+  message: contact info for account microservice dev changed 1
   contact-details:
     email: f17ab9379406712d3fd03580718df8f67a14c904d5b7e8f772d25d0d2dfb88ed73115118e169b0d10d30c4250d8fbb07
     phone: 7907736835
