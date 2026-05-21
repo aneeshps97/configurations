@@ -1,0 +1,14 @@
+build:
+  version: "1.0"
+
+env:
+  environment: "none"
+
+contact-info:
+  message: contact info for space prod microservice
+  contact-details:
+    email: psaneesh010@gmail.com
+    phone: 7907736835
+  onCall-support:
+    +91 9656932559
+    +91 9544732807
