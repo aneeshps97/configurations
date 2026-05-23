@@ -5,7 +5,7 @@ env:
   environment: "dev"
 
 contact-info:
-  message: contact info for booking microservice dev for rabbit mq 23 may webhook2
+  message: contact info for booking microservice dev for rabbit mq 23 may webhook 3
   contact-details:
     email: psaneesh010@gmail.com
     phone: 7907736835
